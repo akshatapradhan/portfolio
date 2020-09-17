@@ -105,17 +105,17 @@ h4 {
 	margin-bottom: 50px;
 }
 #header .image-ag {
-    padding-top: 10px;
-    padding-left: 9px;
+    /* padding-top: 10px;
+    padding-left: 9px; */
 }
 #header img {
-	height: 380px;
-	width: 380px;
-	margin-top: 63px;
+	height: 360px;
+	width: 360px;
+	margin-top: 90px;
 	transition: 300ms;
 	position: relative;
 	z-index: 100;
-	border-radius: 50%;
+/* 	border-radius: 50%; */
 }
 
 #header .image {
@@ -128,13 +128,13 @@ h4 {
 }
 
 #header .image-bg {
-	height: 400px;
-	width: 400px;
-	margin-top: 63px;
+	height: 360px;
+	width: 360px;
+	margin-top: 90px;
 	position: absolute;
 	transform: rotate(-8deg);
 	background-color: #F2C216;
-	border-radius: 50%;
+/* 	border-radius: 50%; */
 }
 
 #header h1 span {
